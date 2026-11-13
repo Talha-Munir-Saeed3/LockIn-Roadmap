@@ -40,10 +40,10 @@
 ## Phase 1: Language foundations (weeks 1-5)
 
 **Python**
-- [ ] Core: types, comprehensions, generators, decorators, context managers, dataclasses, type hints, error handling
-- [ ] OOP and modules, virtual environments, packaging, pytest
+- [50%] Core: types, comprehensions, generators, decorators, context managers, dataclasses, type hints, error handling
+- [X] OOP and modules, virtual environments, packaging, pytest
 - [ ] Async (asyncio), HTTP clients (httpx), file and JSON handling
-- [ ] CS50 Python alongside
+- [X] CS50 Python alongside
 - [ ] Mini project: CLI expense tracker with tests
 
 **TypeScript / JavaScript**
